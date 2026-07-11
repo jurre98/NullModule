@@ -2,8 +2,6 @@
 
 Welcome to the **NullModule** project! This is an open-source, community-driven Eurorack module created by the members of the Sourcery Studios Discord server.
 
-Originally starting as a collaborative 16HP blank panel, this project is evolving into a fully functional hardware module. The best part? **We haven't decided what it will do yet!** Everyone can contribute their ideas, artwork, and technical skills to shape this module from the ground up.
-
 ---
 
 ## 📂 Project Structure (How to Navigate)
