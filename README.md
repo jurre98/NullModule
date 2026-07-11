@@ -1,4 +1,4 @@
-# NullModule (16HP) 🎛️
+# NullModule 🎛️
 
 Welcome to the **NullModule** project! This is an open-source, community-driven Eurorack module created by the members of the Sourcery Studios Discord server.
 
